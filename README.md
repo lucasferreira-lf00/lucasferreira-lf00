@@ -1,7 +1,7 @@
 ## Sobre mim
 
 
-Sou um profissional apaixonado pela tecnologia e todo o seu potencial transformador. Desde cedo, tenho sido fascinado pelo mundo da programação, e acredito que o desenvolvimento de software é uma das atividades mais criativas e desafiadoras que existem. Meu objetivo é utilizar a tecnologia para solucionar problemas e criar soluções inovadoras que melhorem a vida das pessoas.
+Olá, seja bem-vindo ao meu perfil! Me chamo Lucas e sou apaixonado por dados e tecnologia. Neste espaço, você encontrará diversos projetos que desenvolvi durante a minha trajetória de aprendizado.
 
 ## Habilidades
 

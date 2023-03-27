@@ -1,7 +1,7 @@
 ## Sobre mim
 
 
-Olá, seja bem-vindo ao meu perfil! Me chamo Lucas e sou apaixonado por dados e tecnologia. Neste espaço, você encontrará diversos projetos que desenvolvi durante a minha trajetória de aprendizado.
+Olá, seja bem-vindo ao meu perfil! Me chamo Lucas e sou apaixonado por dados e tecnologia. Neste espaço, você encontrará diversos projetos e conteúdos que desenvolvi durante a minha trajetória de aprendizado.
 
 ## Habilidades
 
